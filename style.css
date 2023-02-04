@@ -85,7 +85,6 @@ nav ul li a:hover {
     outline: none;
     font-size: 16px;
     color: white;
-    color: white;
     background: linear-gradient(90deg,  #fb5283,  #ff3527);
     border-radius: 7px;
 
@@ -136,13 +135,39 @@ nav ul li a:hover {
 .about-us {
     width: 100%;
     height: 100vh;
-    background-color: #bdbaba;
+    background-color: #ebecf1;
 }
 
 .about-us .img {
     float: left;
-    width: 45rem;
-    height: 35rem;
+    width: 636px;
+    height: 500px;
+    padding: 50px;
+}
+
+button.about {
+    width: 120px;
+    border: 0;
+    padding: 8px 10px;
+    outline: none;
+    margin-top: 50px;
+    font-family: 'Lato', sans-serif;
+    font-size: 16px;
+    font-weight: bolder;
+    color: rgb(255, 255, 255);
+    background: rgb(170, 82, 170);
+    border-radius: 7px;
+}
+
+.about-us h2 {
+    font-size: 48px;
+    line-height: 50px;
+    margin-top: 30px;
+}
+
+.about-us h6 {
+    font-size: 18px;
+    line-height: 33px;
 }
 
 
