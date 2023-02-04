@@ -11,7 +11,10 @@
 
 .navbar {
     display: flex;
-    margin: 20px 30px 50px 20px;
+    padding: 20px 0px 0px 20px;
+    width: 99%;
+    height: 40px;
+    background-color: #ebecf1;
 }
 
 .logo {
@@ -160,14 +163,20 @@ button.about {
 }
 
 .about-us h2 {
-    font-size: 48px;
+    font-size: 50px;
     line-height: 50px;
-    margin-top: 30px;
+    margin: 30px 0 15px;
 }
 
 .about-us h6 {
     font-size: 18px;
     line-height: 33px;
+    color: #6A7381;
+}
+
+.text {
+    padding-right: 30px;
+
 }
 
 
