@@ -163,21 +163,40 @@ button.about {
 }
 
 .about-us h2 {
-    font-size: 50px;
+    font-size: 45px;
     line-height: 50px;
-    margin: 30px 0 15px;
+    margin: 15px 0 15px;
 }
 
 .about-us h6 {
     font-size: 18px;
-    line-height: 33px;
+    line-height: 25px;
     color: #6A7381;
 }
 
 .text {
     padding-right: 30px;
-
 }
 
+.row1 {
+    display: flex;
+    margin-top: 15px;
+}
+
+h6.text {
+    font-size: 18px;
+    line-height: 20px;
+    color: #6A7381;
+}
+
+.row2 {
+    display: flex;
+    margin-top: 15px;
+    padding-right: 300px;
+}
+
+.abt {
+    font-size: 25px;
+}
 
 
